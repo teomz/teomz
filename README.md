@@ -5,7 +5,7 @@ Enthusiastic software engineer, always learning, always creating.
 -----------------------------------------------------------------
 
 * 🌍  I'm based in Singapore
-* ✉️  You can contact me at [teomz96@outlook.com](mailto:teomz96@outlook.com)
+* ✉️  You can contact me at [teomz96@outlook.com](mailto:teomz96@outlook.com) or visit my <a href=https://teomingzhe.vercel.app/>portfolio website</a>
 * 🧠  I'm learning golang
 
 ### Skills
